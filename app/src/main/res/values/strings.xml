@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tour Guide Osnabrueck</string>
+
+
+    <!--Bar Names-->
+    <string name="countdown">Countdown</string>
+    <string name="sonnendeck">Sonnendeck</string>
+    <string name="sonderbar">Sonderbar</string>
+    <string name="gruener_jaeger">Grüner Jäger</string>
+
+    <!--Bar Addresses-->
+    <string name="countdown_address">Lohstraße 50, 49074 Osnabrück</string>
+    <string name="sonnendeck_address">Lohstraße 22, 49074 Osnabrück</string>
+    <string name="sonderbar_address"> Lohstraße 21, 49074 Osnabrück</string>
+    <string name="gruener_jaeger_address">An der Katharinenkirche 1, 49074 Osnabrück</string>
+
+    <!--Category name for the content of the fragments-->
+    <string name="category_activities">Activities</string>
+    <string name="category_attractions">Attractions</string>
+    <string name="category_bars">Bars</string>
+    <string name="category_restaurants">Restaurants</string>
+
+</resources>
